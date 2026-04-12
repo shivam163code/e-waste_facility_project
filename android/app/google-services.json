@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106419353099",
+    "project_id": "e-waste-facility-b87ed",
+    "storage_bucket": "e-waste-facility-b87ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106419353099:android:9d81fa7d1350d4aff6f90e",
+        "android_client_info": {
+          "package_name": "com.antigravity.ewaste.e_waste_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVYFlKTO9dEo3C9nrut3omRVukTUPM1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106419353099:android:891a91a4ad2b1275f6f90e",
+        "android_client_info": {
+          "package_name": "com.ewaste.e_waste_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVYFlKTO9dEo3C9nrut3omRVukTUPM1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
